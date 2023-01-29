@@ -1,2 +1,6 @@
 ---
 # tasks file for linux-security
+#TODO Create Security Tasks e.g.:
+# - Configure SSH to prohibit password and root login and enable pubkey authentication
+# - Create a new user (configurable name) and add it to sudo and setup authorized_keys
+#   so that you don't have to work with root all the time and because we disabled root
